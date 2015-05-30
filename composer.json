@@ -1,0 +1,21 @@
+{
+    "name": "hglattergotz/gapi",
+    "type": "library",
+    "description": "gapi",
+    "authors": [
+        {
+            "name": "Henning Glatter-Götz",
+            "email": "henning@glatter-gotz.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+}
